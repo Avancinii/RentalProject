@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|c:\\users\\gusta\\source\\repos\\rentalproject\\motorcyclerentalsystem\\motorcyclerentalsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|solutionrelative:motorcyclerentalsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|c:\\users\\gusta\\source\\repos\\rentalproject\\motorcyclerentalsystem\\motorcyclerentalsystem\\repositories\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|solutionrelative:motorcyclerentalsystem\\repositories\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|c:\\users\\gusta\\source\\repos\\rentalproject\\motorcyclerentalsystem\\motorcyclerentalsystem\\repositories\\interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|solutionrelative:motorcyclerentalsystem\\repositories\\interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|c:\\users\\gusta\\source\\repos\\rentalproject\\motorcyclerentalsystem\\motorcyclerentalsystem\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|solutionrelative:motorcyclerentalsystem\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|c:\\users\\gusta\\source\\repos\\rentalproject\\motorcyclerentalsystem\\motorcyclerentalsystem\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|solutionrelative:motorcyclerentalsystem\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|c:\\users\\gusta\\source\\repos\\rentalproject\\motorcyclerentalsystem\\motorcyclerentalsystem\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|solutionrelative:motorcyclerentalsystem\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|c:\\users\\gusta\\source\\repos\\rentalproject\\motorcyclerentalsystem\\motorcyclerentalsystem\\controllers\\motorcyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|solutionrelative:motorcyclerentalsystem\\controllers\\motorcyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|c:\\users\\gusta\\source\\repos\\rentalproject\\motorcyclerentalsystem\\motorcyclerentalsystem\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B56A593-689A-4309-BD1B-070AFA7B673E}|MotorcycleRentalSystem\\MotorcycleRentalSystem.csproj|solutionrelative:motorcyclerentalsystem\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Repositories\\Interfaces\\ILocationRepository.cs",
+              "RelativeDocumentMoniker": "MotorcycleRentalSystem\\Repositories\\Interfaces\\ILocationRepository.cs",
+              "ToolTip": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Repositories\\Interfaces\\ILocationRepository.cs",
+              "RelativeToolTip": "MotorcycleRentalSystem\\Repositories\\Interfaces\\ILocationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:42:16.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "MotorcycleRentalSystem\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "MotorcycleRentalSystem\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:40:37.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "MotorcycleRentalSystem\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "MotorcycleRentalSystem\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:40:03.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Repositories\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "MotorcycleRentalSystem\\Repositories\\LocationRepository.cs",
+              "ToolTip": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Repositories\\LocationRepository.cs",
+              "RelativeToolTip": "MotorcycleRentalSystem\\Repositories\\LocationRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwEEAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:38:35.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MotorCycleController.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Controllers\\MotorCycleController.cs",
+              "RelativeDocumentMoniker": "MotorcycleRentalSystem\\Controllers\\MotorCycleController.cs",
+              "ToolTip": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Controllers\\MotorCycleController.cs",
+              "RelativeToolTip": "MotorcycleRentalSystem\\Controllers\\MotorCycleController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:37:14.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "MotorcycleRentalSystem\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "MotorcycleRentalSystem\\Controllers\\LocationController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwEgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:36:18.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "MotorcycleRentalSystem\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Models\\OrderModel.cs",
+              "RelativeToolTip": "MotorcycleRentalSystem\\Models\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:31:59.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MotorcycleRentalSystem\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Gusta\\source\\repos\\RentalProject\\MotorcycleRentalSystem\\MotorcycleRentalSystem\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MotorcycleRentalSystem\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:18:33.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
